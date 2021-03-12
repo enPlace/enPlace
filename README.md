@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enPlace
-- 👀 I’m interested in statistics, economics, logic, philosophy, language learning, and mountains. ⛰️⛰️
+- 👀 I’m interested in statistics, economics, logic, philosophy, language learning, and mountains! ⛰️⛰️
 - 🌱 I’m currently learning javascript and python, basic web development and general programming.
 - 💞️ I’m open to collaborate on anything.
 
