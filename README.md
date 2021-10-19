@@ -20,7 +20,7 @@
 
 <h3 align="left">Projects:</h3>
 <h4 align="left">Battleship game with AI -- React, Jest </h4>
-<a href="https://github.com/enPlace/react-Battleshipt">
+<a href="https://github.com/enPlace/react-Battleship">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-Battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
