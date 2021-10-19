@@ -32,12 +32,13 @@ _____________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a><a href="https://enplace-weather.herokuapp.com//">  <img width ="400" align = "center" justify = "center" src = "./weatherapp.webp  "/> </a>  
 
-
+_____________________________________________________________________________
 <a href="https://github.com/enPlace/react-redux-ComputerShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-redux-ComputerShop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  <a href="http://enplace-computerstore.herokuapp.com/">  <img width ="400" align = "center" justify = "center" src = "./nuevohuevo.webp "/> </a>  
 
 
+_____________________________________________________________________________
 
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />  <a href="https://bookmarked-enplace.herokuapp.com/">  <img width ="400" align = "center" justify = "center" src = "./bookmarked.webp "/> </a>
@@ -45,6 +46,7 @@ _____________________________________________________________________________
 
 
 
+_____________________________________________________________________________
 
 
 
@@ -53,6 +55,7 @@ _____________________________________________________________________________
 </a> <a href="https://https://enplace.github.io/react-inline-editable-cv/">  <img width ="400" align = "center" justify = "center" src = "./cv.webp "/> </a>
 
 
+_____________________________________________________________________________
 <a href="https://github.com/enPlace/top-tictactoe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-tictactoe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> <a href="https://enplace.github.io/top-tictactoe/">  <img width ="400" align = "center" justify = "center" src = "./tictactoe.webp "/> </a>
