@@ -25,6 +25,9 @@
 </a>   <a href="https://github.com/enPlace/top-weather-app">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/enPlace/react-redux-ComputerShop">
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-redux-ComputerShop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 react-redux-ComputerShop
 
 
