@@ -28,6 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-redux-ComputerShop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
+https://user-images.githubusercontent.com/77813192/137995120-5e590d9f-b614-4abd-a118-50a1023fb65c.mp4
+
+
+
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> <a href="https://github.com/enPlace/react-inline-editable-cv">
