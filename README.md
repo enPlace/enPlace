@@ -19,8 +19,6 @@
 
 
 <h3 align="left">Projects:</h3>
-<h4 align="left">Battleship game with AI -- React, Jest </h4>
-<a href="https://enplace-weather.herokuapp.com/">live: https://enplace-weather.herokuapp.com/</a> <a align="right" href="https://enplace-weather.herokuapp.com/">live: https://enplace-weather.herokuapp.com/</a>
 <a href="https://github.com/enPlace/react-Battleship">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   <a href="https://github.com/enPlace/top-weather-app">
@@ -37,37 +35,3 @@
 </a> <a href="https://github.com/enPlace/top-tictactoe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-tictactoe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-
-
-- live: https://enplace-battleship.herokuapp.com/
-
-- repo: https://github.com/enPlace/react-Battleship
-
-<h4 align="left">Weather App -- Webpack, ES6 Modules </h4>
-
-- live: https://enplace-weather.herokuapp.com/
-
-- repo: https://github.com/enPlace/top-weather-app
-
-
-<h4 align="left">Bookmarked! Bookshelf App -- React, Firebase </h4>
-
-- live: https://enplace-weather.herokuapp.com/
-
-- repo: https://github.com/enPlace/top-weather-app
-
-
-<h4 align="left">Nuevohuevo: online tech store shopping cart -- React, Redux, React Router </h4>
-
-- live: http://enplace-computerstore.herokuapp.com/
-
-- repo: https://github.com/enPlace/react-redux-ComputerShop
-
-
-
-<h4 align="left">Inline-editable CV -- React </h4>
-
-- live: https://enplace.github.io/react-inline-editable-cv/
-
-- repo: https://github.com/enPlace/react-inline-editable-cv
-
