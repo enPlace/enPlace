@@ -51,6 +51,9 @@
 
  <a href="https://github.com/enPlace/react-inline-editable-cv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-inline-editable-cv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> <a href="https://github.com/enPlace/top-tictactoe">
+</a> <a href="https://https://enplace.github.io/react-inline-editable-cv/">  <img width ="400" align = "center" justify = "center" src = "./cv.webp "/> </a>
+
+
+<a href="https://github.com/enPlace/top-tictactoe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-tictactoe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
