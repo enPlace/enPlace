@@ -20,6 +20,9 @@
 
 <h3 align="left">Projects:</h3>
 <h4 align="left">Battleship game with AI -- React, Jest </h4>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship)](https://github.com/anuraghazra/github-readme-stats)
++
+-
 
 - live: https://enplace-battleship.herokuapp.com/
 
