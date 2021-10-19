@@ -31,6 +31,8 @@
 
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> <a href="https://github.com/enPlace/react-inline-editable-cv">
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-inline-editable-cv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 react-redux-ComputerShop
 /bookmarked-react-firebase
