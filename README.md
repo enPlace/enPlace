@@ -20,6 +20,7 @@
 
 <h3 align="left">Projects:</h3>
 <h4 align="left">Battleship game with AI -- React, Jest </h4>
+live: https://enplace-battleship.herokuapp.com/ live: https://enplace-battleship.herokuapp.com/
 <a href="https://github.com/enPlace/react-Battleship">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   <a href="https://github.com/enPlace/top-weather-app">
@@ -27,8 +28,6 @@
 </a>
 <a href="https://github.com/enPlace/react-redux-ComputerShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-redux-ComputerShop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  
-live: https://enplace.github.io/react-inline-editable-cv/
 </a> 
 
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
