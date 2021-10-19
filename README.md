@@ -28,7 +28,7 @@ Content Cell  | Content Cell
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/enPlace/react-Battleship">  <img align = "center" justify = "center" src = "./ezgif.com-gif-maker.webp"/> </a> 
+<a href="https://github.com/enPlace/react-Battleship">  <img align = "center" justify = "center" width ="100" src = "./ezgif.com-gif-maker.webp"/> </a> 
 
 
 
