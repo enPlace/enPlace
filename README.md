@@ -16,7 +16,7 @@
 <!-- Resources 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=onedark" alt="enplace" /></p>-->
 
-
+<img src = "./ezgif.com-gif-maker.webp"/>
 
 <h3 align="left">Projects:</h3> 
 <a href="https://github.com/enPlace/react-Battleship"> 
