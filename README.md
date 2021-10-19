@@ -20,7 +20,9 @@
 <h3 align="left">Projects:</h3> 
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> <img src = "./ezgif.com-gif-maker.webp"/>  <a href="https://github.com/enPlace/top-weather-app">
+</a><a href="https://github.com/enPlace/react-Battleship">  <img src = "./ezgif.com-gif-maker.webp"/> </a>
+
+<a href="https://github.com/enPlace/top-weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
