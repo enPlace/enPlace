@@ -36,8 +36,8 @@
 <a href="https://github.com/enPlace/react-redux-ComputerShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-redux-ComputerShop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  <a href="http://enplace-computerstore.herokuapp.com/">  <img width ="400" align = "center" justify = "center" src = "./nuevohuevo.webp "/> </a>
-
- 
+<br/>  
+ <br/>
 
 
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
