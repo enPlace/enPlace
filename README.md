@@ -24,7 +24,7 @@
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/enPlace/react-Battleship">  <img align = "center" justify = "center" width ="200" src = "./ezgif.com-gif-maker.webp"/> </a> 
+<a href="https://github.com/enPlace/react-Battleship">  <img align = "center" justify = "center" width ="300" src = "./ezgif.com-gif-maker.webp"/> </a> 
 
 
 
@@ -40,7 +40,7 @@
 
 
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />  <a href="https://bookmarked-enplace.herokuapp.com/">  <img width ="200" align = "center" justify = "center" src = "./bookmarked.webp "/> </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />  <a href="https://bookmarked-enplace.herokuapp.com/">  <img width ="300" align = "center" justify = "center" src = "./bookmarked.webp "/> </a>
 </a> 
 
 
