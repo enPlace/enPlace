@@ -18,9 +18,14 @@
 
 
 
-<h3 align="left">Projects:</h3>
-<a href="https://github.com/enPlace/react-Battleship">
+<h3 align="left">Projects:</h3> 
+<a href="https://github.com/enPlace/react-Battleship"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
+
+https://user-images.githubusercontent.com/77813192/137995865-ba6919f1-39cb-4223-8b01-0d3bcc6e7f16.mp4
+
+
 </a>   <a href="https://github.com/enPlace/top-weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -33,7 +38,7 @@
 <a href="https://github.com/enPlace/bookmarked-react-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=bookmarked-react-firebase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-https://user-images.githubusercontent.com/77813192/137995638-1ce6f033-5d59-4eb2-ae1f-b55d83dd325c.mp4
+
 
 
 
