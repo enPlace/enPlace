@@ -5,11 +5,17 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/enplace/**
 <h3 align="left">Projects:</h3>
-<span> <h4 align="right">React</h4> </span> <span> <h4 align="right">React</h4> </span>
+<h4 align="left">Battleship game with AI -- React, Jest </h4>
 
 - live: https://enplace-battleship.herokuapp.com/
 
 - repo: https://github.com/enPlace/react-Battleship
+
+<h4 align="left">Weather App -- Webpack, ES6 Modules </h4>
+
+- live: https://enplace-weather.herokuapp.com/
+
+- repo: https://github.com/enPlace/top-weather-app
 
 
 
