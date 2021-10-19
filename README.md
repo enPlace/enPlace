@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/enplace/**
 <h3 align="left">Projects:</h3>
-<h4 align="left">React Battleship game with AI </h4>
+<h4 align="left">Battleship game with AI </h4> <h4 align="right">React</h4> 
 
 - live: https://enplace-battleship.herokuapp.com/
 
