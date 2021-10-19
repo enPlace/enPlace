@@ -11,6 +11,14 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enplace&theme=dark" alt="enplace" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enplace&theme=radical" alt="enplace" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enplace&theme=gruvbox" alt="enplace" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enplace&theme=tokyonight" alt="enplace" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enplace&theme=synthwave" alt="enplace" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=gotham" alt="enplace" /></p>
 
 
