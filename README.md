@@ -17,7 +17,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=onedark" alt="enplace" /></p>-->
 
 
-<h2 align="left">Projects:</h2>
+<h1 align="center">Projects:</h1>
 
 
 
