@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/enPlace/react-Battleship"> 
-  <img height = "140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height = "160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/enPlace/react-Battleship">  <img align = "center" justify = "center" width ="300" src = "./ezgif.com-gif-maker.webp"/> </a> 
 
