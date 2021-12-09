@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Express, Mongo, and Mongoose**
 
-- 📫 How to reach me **https://www.linkedin.com/in/enplace/**
 
 
 <h3 align="left">Languages and Tools:</h3>
