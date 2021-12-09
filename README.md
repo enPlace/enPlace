@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Place</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">JavScript Developer</h3>
 
 - 🌱 I’m currently learning **Express, Mongo, and Mongoose**
 
