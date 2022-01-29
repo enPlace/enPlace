@@ -27,7 +27,7 @@ It turns out that my love of language learning, logic, problem solving and analy
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=onedark" alt="enplace" /></p>-->
 
 
-<h1 align="center">Projects:</h1>
+<h1 align="center">Projects, Built From Scratch:</h1>
 
 
 
