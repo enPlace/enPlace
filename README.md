@@ -10,7 +10,7 @@ Thanks for visiting my profile! I am a full stack developer that specializes in 
 <h3 align="left">About me:</h3>
 <p>I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, at the time wanting to become an immigration lawyer. But things changed! After taking the LSAT and scoring well, I began teaching it and, meanwhile, started to learn programming on the side to boost my resume. </p>
 
-<p>It turns out that my love of language learning, logic, problem solving and analytics are really nicely combined in programming, and I chose to pursue a career in software development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.</p>
+<p>It turns out that my love of language learning, logic, problem solving, and analytical thinking are really nicely combined in programming, and I chose to pursue a career in software development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.</p>
 
  When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi movies, running, or long-distance trekking through the mountains.
 
