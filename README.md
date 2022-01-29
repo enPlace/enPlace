@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">JavaScript Developer</h3>
+Thanks for visiting my profile! I am a full stack developer with experience building websites and web applications. I specialize in JavaScript and work with with React, Redux, Webpack, Firebase, MySQL, Node.js, Sequelize, and Express. Take a look at my work or get in touch! 
+
+Github: https://github.com/enPlace/
+
+I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to try and teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, initially thinking I wanted to move into a career as an immigration lawyer. But things changed! After taking the LSAT and scoring in the 99.96 percentile, I began using my formal logic training to teach the LSAT and, meanwhile, started to learn programming on the side to boost my resume. 
+
+It turns out that my love of language learning, logic, problem solving and analytics are really nicely combined in programming, and I chose to pursue a career in software development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.
+
+ When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi movies, running, or long-distance trekking through the mountains.
 
 
 
