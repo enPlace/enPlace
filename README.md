@@ -27,7 +27,7 @@ Thanks for visiting my profile! I am a full stack developer who specializes in J
 <!-- Resources 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=onedark" alt="enplace" /></p>-->
 
-
+<br/>
 <h1 align="center">Projects, Built From Scratch:</h1>
 
 
