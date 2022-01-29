@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-Thanks for visiting my profile! I am a full stack developer with experience building websites and web applications. I specialize in JavaScript and work with with React, Redux, Webpack, Firebase, MySQL, Node.js, Sequelize, and Express. Take a look at my work and get in touch! 
+Thanks for visiting my profile! I am a full stack developer and specialize in JavaScript React, Redux, Webpack, Firebase, MySQL, Node.js, Sequelize, and Express. Take a look at my work and get in touch! 
 
 
 <h3 align="left">Connect with me:</h3>
