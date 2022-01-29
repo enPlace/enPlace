@@ -7,7 +7,7 @@ Thanks for visiting my profile! I am a full stack developer with experience buil
 <a align="center" href="https://linkedin.com/in/enplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enplace" height="20" width="20" /> <p> https://www.linkedin.com/in/enplace/  </p> </a>
 </p>
 <h3 align="left">About me:</h3>
-I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to try and teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, initially thinking I wanted to move into a career as an immigration lawyer. But things changed! After taking the LSAT, I began teaching it and, meanwhile, started to learn programming on the side to boost my resume. 
+I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, initially thinking I wanted to move into a career as an immigration lawyer. But things changed! After taking the LSAT, I began teaching it and, meanwhile, started to learn programming on the side to boost my resume. 
 
 It turns out that my love of language learning, logic, problem solving and analytics are really nicely combined in programming, and I chose to pursue a career in software development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.
 
