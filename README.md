@@ -8,7 +8,7 @@
 <a align="center" href="https://linkedin.com/in/enplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enplace" height="20" width="20" /> <p> https://www.linkedin.com/in/enplace/  </p> </a>
 </p>
 <h3 align="left">About me:</h3>
-<p>I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, at the time wanting to become an immigration lawyer. But things changed! After taking the LSAT, I began teaching it, and started to learn programming on the side to boost my resume. </p>
+<p>I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, at the time wanting to become an immigration lawyer. But things changed! After taking the LSAT, I began teaching it and started to learn programming on the side to boost my resume. </p>
 
 <p>It turns out that my love of language learning, logic, problem solving, and analytical thinking are really nicely combined in programming, and I chose to pursue a career in software development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.</p>
 
