@@ -7,6 +7,8 @@
 <p align="left">
 <a align="center" href="https://linkedin.com/in/enplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enplace" height="20" width="20" /> <p> https://www.linkedin.com/in/enplace/  </p> </a>
 </p>
+<h3 align="left">What I'm Reading</h3>
+<img src= "http://books.google.com/books/content?id=1zbZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api">
 <h3 align="left">About me:</h3>
 <p>
 I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. I moved to South America for a few years to continue teaching and to learn Spanish, initially thinking I wanted to move into a career as an immigration lawyer. But things changed! After taking the LSAT and scoring well, I began teaching it and, meanwhile, started to learn programming on the side to boost my resume.
