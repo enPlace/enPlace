@@ -34,6 +34,10 @@ When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi 
 
 >A quick note: I've been getting a lot of feedback that these look like tutorial projects. I am proud to say, however, that they are not! They are all built from the  ground up with no guidance, help, or assistance. All code (good or bad) is mine and mine alone.
 
+_____________________________________________________________________________
+
+_____________________________________________________________________________
+
 
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img height = "160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
