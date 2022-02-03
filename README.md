@@ -30,7 +30,7 @@ When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi 
 
 <br/>
 <h1 align="center">Projects, Built From Scratch:</h1>
-<p>(A quick note: I've been getting a lot of feedback that these look like tutorial projects. I am proud to say, however, that they are not! They are all built from the ground up with no guidance, help, or assistance. All code (good or bad) is mine and mine alone!)
+<p>(A quick note: I've been getting a lot of feedback that these look like tutorial projects. I am proud to say, however, that they are not! They are all built from the ground up with no guidance, help, or assistance. All code (good or bad) is mine and mine alone!)</p>
 
 
 <a href="https://github.com/enPlace/react-Battleship"> 
