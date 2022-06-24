@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nick</h1>
+<h1 align="center">Hey there!</h1>
  I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express. Take a look at my work and get in touch! 
 
 
