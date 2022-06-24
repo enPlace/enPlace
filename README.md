@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!</h1>
- I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express. Moonlighting as a Law School Admissions Test instructor, because I'm a nerd and somehow like the LSAT. Take a look at my work and get in touch! 
+ Full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express. Currently moonlighting as a Law School Admissions Test instructor, because I'm a nerd and somehow like the LSAT. Take a look at my work and get in touch! 
 
 
 
