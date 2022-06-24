@@ -32,7 +32,7 @@ When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi 
 <h1 align="center">Projects, Built From Scratch:</h1>
 
 
->A quick note: I've been getting a lot of feedback that these look like tutorial projects. I am proud to say, however, that they are not! They are all built from the  ground up with no guidance, help, or assistance. All code (good or bad) is mine and mine alone. Click the description to be redirected to the repository, or the gif to see the live site. 
+>A quick note: these are not tutorial projects. They were all built with the intention of learning something specific and to improve my skills. All code (good or bad) is mine and mine alone. Click the description to be redirected to the repository, or the gif to see the live site. 
 
 _____________________________________________________________________________
 
