@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!</h1>
- I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express.js. Take a look at my work and get in touch! 
+ I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express.js. I also teach logic at 7Sage and mentor as often as I can. Take a look at my work and get in touch! 
 
 
 
@@ -11,11 +11,8 @@
 <img src= "http://books.google.com/books/content?id=1zbZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api">
 <h3 align="left">About me:</h3>
 <p>
-I've spent most of my adult life teaching, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. In 2016, I moved to South America for a few years to continue teaching and to learn Spanish, initially thinking I wanted to move into a career as an immigration lawyer. But things changed! After taking the LSAT and scoring well, I began working as an LSAT instructor and started to learn programming on the side.
 
-As it turns out, my love of language learning, logic, problem solving and analytics are really nicely combined in programming! So I chose to pursue a career in software development instead, and  haven't looked back since. I continue to take joy in learning how to solve new problems every day.
-
-When I'm not building web apps or teaching the LSAT, I'm either watching sci-fi movies, running, or long-distance trekking through the mountains.</p>
+When I'm not building web apps or teaching, I'm either watching sci-fi movies, running, or long-distance trekking through the mountains.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
