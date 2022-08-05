@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!</h1>
- I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express.js. I also teach logic at 7Sage and mentor as often as I can. Take a look at my work and get in touch! 
+ I am a full stack developer who specializes in JavaScript, React, Redux, Webpack, Firebase, MySQL, Node.js, and Express.js. I also teach logic classes at 7Sage and mentor as often as I can. Take a look at my work and get in touch! 
 
 
 
