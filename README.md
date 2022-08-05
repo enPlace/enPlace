@@ -36,9 +36,9 @@ _____________________________________________________________________________
 _____________________________________________________________________________
 
 
-<a href="https://folioguru.io"> 
- <h1> folioguru.io </h1>
-</a>
+
+ <h1> <a href="https://folioguru.io"> folioguru.io </a></h1>
+
 <br/>
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="300" src = "./ezgif.com-gif-maker.webp"/> </a> 
 
