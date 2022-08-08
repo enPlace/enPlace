@@ -40,7 +40,7 @@ _____________________________________________________________________________
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
 
 <br/>
-<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./sign_in.JPG"/> </a> 
+<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="500" src = "./sign_in.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./artist.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./sales.JPG"/> </a> 
 
