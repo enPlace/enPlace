@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a align="center" href="https://linkedin.com/in/enplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enplace" height="20" width="20" /> <p> https://www.linkedin.com/in/enplace/  </p> </a>
@@ -40,6 +44,7 @@ _____________________________________________________________________________
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
 
 <br/>
+https://user-images.githubusercontent.com/77813192/183519625-bf0d649a-727d-44ca-9513-0cc8b45483b7.mp4
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="500" src = "./sign_in.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./artist.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./sales.JPG"/> </a> 
