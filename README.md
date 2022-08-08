@@ -55,9 +55,9 @@ https://user-images.githubusercontent.com/77813192/183519805-1fd46994-9a79-4bfb-
 
 _____________________________________________________________________________
 
-  <p align = "center"> <img align = "center" justify = "center" width ="600" src = "./battleship.JPG"/> </p>
+  <p align = "center"> <img align = "center" justify = "center" width ="100%" src = "./battleship.JPG"/> </p>
 
-<h1 align = "center"> <a href="https://enplace-battleship.herokuapp.com/"> Battleship </a></h1>
+<h1 align = "center"> <a href="https://enplace-battleship.herokuapp.com/"> Battleship with "Search and Destroy" Computer Opponent </a></h1>
 
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img height = "160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
