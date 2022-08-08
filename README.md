@@ -40,7 +40,7 @@ _____________________________________________________________________________
 _____________________________________________________________________________
 
  <h1 align = "center">![logo](https://user-images.githubusercontent.com/77813192/183521459-5b9f4758-6792-4f0f-b4b8-23810171f1d9.JPG)</h1>
-
+<img  align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21](https://user-images.githubusercontent.com/77813192/183521459-5b9f4758-6792-4f0f-b4b8-23810171f1d9.JPG)" />
 
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
 <p align = "center"> I created FolioGuru for my artist friends who were having success getting their works into galleries, but were having a hard time keeping up with where everything was! Another friend ran a gallery, and constantly complained about how annoying her gallery's inventory tracking and sales system was. So I created an app that solved both problems! FolioGuru is both a portfolio management system and a sales tracking app that can be used by either individual artists or galleries. Or buyers, for that matter, who want to keep track of the art they purchase. This project was a great exercise in designing everything from the ground up, both front end and back end.</p>
