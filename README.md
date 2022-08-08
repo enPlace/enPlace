@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/77813192/183519805-1fd46994-9a79-4bfb-
 
 _____________________________________________________________________________
 
+  <p align = "center"> <img align = "center" justify = "center" width ="600" src = "./battleship.JPG"/> </p>
+
 <h1 align = "center"> <a href="https://enplace-battleship.herokuapp.com/"> Battleship </a></h1>
 
 <a href="https://github.com/enPlace/react-Battleship"> 
