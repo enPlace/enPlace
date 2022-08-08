@@ -33,7 +33,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies, r
 <h1 align="center">Projects</h1>
 
 
->(Not tuorial projects!)
+(To be absolutely clear, these are not tutorial projects)
 
 _____________________________________________________________________________
 
@@ -48,10 +48,6 @@ _____________________________________________________________________________
 
 https://user-images.githubusercontent.com/77813192/183519805-1fd46994-9a79-4bfb-a128-708d8811124c.mp4
 
-
-<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="500" src = "./sign_in.JPG"/> </a> 
-<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./artist.JPG"/> </a> 
-<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./sales.JPG"/> </a> 
 
 _____________________________________________________________________________
 
