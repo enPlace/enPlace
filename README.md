@@ -59,11 +59,13 @@ _____________________________________________________________________________
 
 <h1 align = "center"> <a href="https://enplace-battleship.herokuapp.com/"> Battleship with "Search and Destroy" Computer Opponent </a></h1>
 
+  <p align = "center"> In this project, I developed and optimized a computer opponent algorithm based on Battleship game theory. Check out the <a href = "https://github.com/enPlace/react-Battleship">Readme</a> </p>
+<!--
 <a href="https://github.com/enPlace/react-Battleship"> 
   <img height = "160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=react-battleship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://enplace-battleship.herokuapp.com/">  <img align = "center" justify = "center" width ="300" src = "./ezgif.com-gif-maker.webp"/> </a> 
-
+-->
 _____________________________________________________________________________
 
 <a href="https://github.com/enPlace/top-weather-app">
