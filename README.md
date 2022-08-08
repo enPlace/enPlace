@@ -42,7 +42,8 @@ _____________________________________________________________________________
   <p align = "center"> <img align = "center" justify = "center" width ="300" src = "./logo.JPG"/> </p>
 
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
-<p align = "center"> I created FolioGuru for my artist friends who were having success getting their works into galleries, but were having a hard time keeping up with where everything was! Another friend ran a gallery, and constantly complained about how annoying her gallery's inventory tracking and sales system was. So I created an app that solved both problems! FolioGuru is both a portfolio management system and a sales tracking app that can be used by either individual artists or galleries. Or buyers, for that matter, who want to keep track of the art they purchase. This project was a great exercise in designing everything from the ground up, both front end and back end.</p>
+<p align = "center"> I created FolioGuru mainly for two people. One, an artist friend who was having success getting his works into galleries, but was also having a hard time keeping up with where everything was! Another friend ran a gallery, and constantly complained about how annoying her gallery's inventory tracking and sales system was. So I created an app that solved both problems.
+ FolioGuru is both a portfolio management system and a sales tracking app that can be used by either individual artists or galleries. Or buyers, for that matter, who want to keep track of the art they purchase. This project was a great exercise in designing everything from the ground up, both front end and back end.</p>
 
 <p align = "center"> Stack and libraries: MySQL, Knex.js, Node, Express, React, MUI </p>
 <p align = "center"> Architectural pattern: MVC </p>
