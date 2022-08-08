@@ -44,7 +44,11 @@ _____________________________________________________________________________
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
 
 <br/>
-https://user-images.githubusercontent.com/77813192/183519625-bf0d649a-727d-44ca-9513-0cc8b45483b7.mp4
+
+
+https://user-images.githubusercontent.com/77813192/183519805-1fd46994-9a79-4bfb-a128-708d8811124c.mp4
+
+
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="500" src = "./sign_in.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./artist.JPG"/> </a> 
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="600" src = "./sales.JPG"/> </a> 
