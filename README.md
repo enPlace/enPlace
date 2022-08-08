@@ -41,6 +41,8 @@ _____________________________________________________________________________
 
 <br/>
 <a href="https://folioguru.io">  <img align = "center" justify = "center" width ="300" src = "./sign_in.JPG"/> </a> 
+<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="300" src = "./artist.JPG"/> </a> 
+<a href="https://folioguru.io">  <img align = "center" justify = "center" width ="300" src = "./sales.JPG"/> </a> 
 
 _____________________________________________________________________________
 
