@@ -60,7 +60,7 @@ _____________________________________________________________________________
 
 _____________________________________________________________________________
 
-  <p align = "center"> <img align = "center" justify = "center" width ="100%" src = "./battleship.JPG"/> </p>
+ <!-- <p align = "center"> <img align = "center" justify = "center" width ="100%" src = "./battleship.JPG"/> </p>-->
 
 <h1 align = "center"> <a href="https://enplace-battleship.herokuapp.com/"> Battleship with "Search and Destroy" Computer Opponent </a></h1>
 
@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/77813192/183524121-9f850237-054b-485a-
 -->
 _____________________________________________________________________________
 
-<a href="https://github.com/enPlace/top-weather-app">
+<!--<a href="https://github.com/enPlace/top-weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a><a href="https://enplace-weather.herokuapp.com//">  <img width ="400" align = "center" justify = "center" src = "./weatherapp.webp  "/> </a>  
 
@@ -111,4 +111,4 @@ _____________________________________________________________________________
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enplace&repo=top-tictactoe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> <a href="https://enplace.github.io/top-tictactoe/">  <img width ="400" align = "center" justify = "center" src = "./tictactoe.webp "/> </a>
 
-
+-->
