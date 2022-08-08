@@ -33,7 +33,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies, r
 <h1 align="center">Projects</h1>
 
 
-(To be absolutely clear, these are not tutorial projects)
+
 
 _____________________________________________________________________________
 
@@ -42,7 +42,10 @@ _____________________________________________________________________________
 
 
  <h1 align = "center"> <a href="https://folioguru.io"> folioguru.io </a></h1>
+<p align = "center"> I created FolioGuru for my artist friends who were having success getting their works into galleries, but were having a hard time keeping up with where everything was! Another friend ran a gallery, and constantly complained about how annoying her gallery's inventory tracking and sales system was. So I created an app that solved both problems! FolioGuru is both a portfolio management system and a sales tracking app that can be used by either individual artists or galleries. Or buyers, for that matter, who want to keep track of the art they purchase. This project was a great exercise in designing everything from the ground up, both front end and back end.</p>
 
+<p align = "center"> Stack and libraries: MySQL, Knex.js, Node, Express, React, MUI </p>
+<p align = "center"> Architectural pattern: MVC </p>
 <br/>
 
 
