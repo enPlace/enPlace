@@ -30,7 +30,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies, r
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enplace&show_icons=true&locale=en&theme=onedark" alt="enplace" /></p>-->
 
 <br/>
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent Projects</h1>
 
 
 
